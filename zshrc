@@ -1,0 +1,1 @@
+/Users/bradleygolden/.dotfiles/zshrc
