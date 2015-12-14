@@ -1,1 +1,1 @@
-/Users/bradleygolden/.dotfiles/zshrc
+alias update='source ~/.zshrc'     # Easily source your ~/.zshrc file.
